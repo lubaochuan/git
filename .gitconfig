@@ -2,3 +2,4 @@
   a = add 
   s = status
   c = commit
+  d = diff
